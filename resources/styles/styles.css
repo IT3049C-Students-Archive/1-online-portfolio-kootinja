@@ -1,0 +1,42 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+#personalBackground {
+  grid-row: 2;
+}
+#experience {
+  grid-row: 5;
+}
+#programmingLanguages {
+  grid-row: 5;
+}
+#achievements {
+  grid-row: 10;
+}
+#games {
+  grid-row: 10;
+}
+body {
+  background-color: rgb(23, 0, 105);
+}
+h1 {
+  font-family: courier;
+  color: white;
+}
+h2 {
+  font-family: courier;
+  color: white;
+}
+p {
+  font-family: courier;
+  color: white;
+}
+ol{
+  font-family: courier;
+  color: white;
+}
+ul{
+  font-family: courier;
+  color: white;
+}
